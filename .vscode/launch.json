@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "program41",
+      "request": "launch",
+      "mainClass": "program41",
+      "projectName": "OOPs Code_d5e66cb1"
+    },
+    {
+      "type": "java",
+      "name": "program4",
+      "request": "launch",
+      "mainClass": "program4",
+      "projectName": "OOPs Code_d5e66cb1"
+    },
+    {
+      "type": "java",
+      "name": "program3",
+      "request": "launch",
+      "mainClass": "program3",
+      "projectName": "OOPs Code_d5e66cb1"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/sem 3/Object Oriented Programming Concepts - CS322I3C/Lab/OOPs Code",
+      "program": "d:/sem 3/Object Oriented Programming Concepts - CS322I3C/Lab/OOPs Code/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
